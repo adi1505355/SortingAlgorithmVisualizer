@@ -1,5 +1,5 @@
 # SortingAlgorithmVisualizer
-A Java application for Visualizing the Sorting Algorithm.It used Java Swing Framework for the GUI. Implemented Merge Sort, Quick Sort and other popular sorting algorithms.
+A Java application for Visualizing the Sorting Algorithm.It utilizes the JAVA Swing as GUI. Implemented Merge Sort, Quick Sort and other popular sorting algorithms. Will take default bar-width and step-rate incase its not configured.
 
 Screenshots : 
 
